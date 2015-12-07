@@ -4,7 +4,7 @@ import pylab as pl
 
 
 def main():
-    origin = open('origin10.txt', 'r')
+    origin = open('kddcup.txt', 'r')
 
     lines = origin.readlines()
 
